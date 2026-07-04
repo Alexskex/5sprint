@@ -1,4 +1,4 @@
-package spentenergy
+package personaldata
 
 import (
 	"time"
